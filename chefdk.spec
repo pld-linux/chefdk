@@ -8,7 +8,7 @@ License:	Apache v2.0
 Group:		Networking/Admin
 Source0:	https://github.com/opscode/chef-dk/archive/%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	80f274de84f339971e7afa0de463a842
-URL:		https://github.com/opscode/chef-dk
+URL:		http://docs.opscode.com/ctl_chef.html
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.673
 BuildRequires:	sed >= 4.0
